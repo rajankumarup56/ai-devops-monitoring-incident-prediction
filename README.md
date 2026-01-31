@@ -1,3 +1,7 @@
+> ⚠️ NOTE  
+> This repository represents earlier experimentation and learning.
+> My current production-focused DevOps and AWS projects are pinned on my GitHub profile.
+
 # AI-Driven DevOps Monitoring & Incident Prediction System
 
 This project demonstrates an AI-powered DevOps monitoring system designed
